@@ -46,7 +46,7 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: "feed",
       content: {
-        title: "이희종 ♥ 윤수정의 모바일 청첩장",
+        title: "최준빈 ♥ 이정서의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
         imageUrl: "https://i.imgur.com/vnPHLvr.png",
         imageWidth: 1200,
