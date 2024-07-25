@@ -47,20 +47,20 @@ window.onload = () => {
       content: {
         title: "최준빈 ♥ 이정서의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
-        imageUrl: "https://i.imgur.com/vnPHLvr.png",
+        imageUrl: "https://i.imgur.com/ItUlt6i.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
-          mobileWebUrl: "https://mo6.luvle.co.kr",
-          webUrl: "https://mo6.luvle.co.kr",
+          mobileWebUrl: "https://mo8.luvle.co.kr",
+          webUrl: "https://mo8.luvle.co.kr",
         },
       },
       buttons: [
         {
           title: "자세히 보기",
           link: {
-            mobileWebUrl: "https://mo6.luvle.co.kr",
-            webUrl: "https://mo6.luvle.co.kr",
+            mobileWebUrl: "https://mo8.luvle.co.kr",
+            webUrl: "https://mo8.luvle.co.kr",
           },
         },
       ],
