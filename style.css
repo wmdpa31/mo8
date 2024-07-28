@@ -396,8 +396,8 @@ main {
 }
 
 #MapIconDiv {
-  color: #ffffff;
-  font-size: 13px;
+  color: #222222;
+  font-size: 14px;
   text-align: center;
   background-color: white;
   display: flex;
